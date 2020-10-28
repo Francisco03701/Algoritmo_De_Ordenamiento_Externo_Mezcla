@@ -1,5 +1,5 @@
 # Algoritmo_De_Ordenamiento_Externo_Mezcla
-# Este programa es de un algoritmo de ordenamiento externo de mezcla creado en c++, en el cual se toma un arreglo ya declarado con ciertos  número y lo  que hace el programa es ordenarlos  del menor al mayor.
+# Este programa es de un algoritmo de ordenamiento externo de mezcla creado en c++, en el cual se toma un arreglo ya declarado con ciertos  número y lo  que hace el programa es ordenarlos del menor al mayor.
 
 
 En esta parte del inicio del programa es donde podemos encontrar, la declaración de las dos funciones, las cuales son mezcla y algoritmoMezcla, así  como también el método main en el cual lo único que se hace es la impresión de los dos arreglos el arreglo de los datos desordenados y el otro donde se manda a llamar el arreglo ordenado.
